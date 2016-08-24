@@ -2,8 +2,8 @@
 da: {
  //Menu entries
  proVersion: "",
- tamingCalculator: "",
- breedingCalculator: "",
+ tamingCalculator: "",Zähmzeit
+ breedingCalculator: "",Brutzeit
  creatureStats: "",
  raidCalculator: "",
  resourceCalculator: "",
@@ -18,7 +18,7 @@ da: {
  supplyDrops: "",
  whistles: "",
  development: "",
- settings: "",
+ settings: "",Einstellungen
  about: "",
 
  //Pro version
@@ -28,16 +28,16 @@ da: {
  proVersionButton: "",
 
  //Taming calculator + tabs
- taming: "",
- recipes: "",
- timers: "",
- breeding: "",
+ taming: "",Zähmen
+ recipes: "",Rezepte
+ timers: "",Timer
+ breeding: "",Brüten
  Additional: "",
- foodTip: "",
- food: "",
+ foodTip: "",Essenstipp
+ food: "",Essen
  Amount: "",
- max: "",
- time: "",
+ max: "",Max
+ time: "",Zeit
  tameInfo: "",
  narcoticsNeeded: "",
  narcoberriesNeeded: "",
@@ -46,7 +46,7 @@ da: {
  totalTameTime: "",
  localTimeDone: "",
  effectiveness: "",
- levels: "",
+ levels: "",Level
  maxLevelAfterTraining: "",
  importantCreatureInfo: "",
  koTechniques: "",
@@ -54,7 +54,7 @@ da: {
  killPerc: "",
  ratio: "",
  editKOInfo: "",
- add: "",
+ add: "",Hinzufügen
  koTechniqueSettings: "",
  currentKOTechniques: "",
  delete: "",
@@ -84,9 +84,9 @@ da: {
  craftedIn: "",
  producesKibble: "",
  notApplicable: "",
- saddle: "",
+ saddle: "",Sattel
  Smithy: "",
- Inventory: "",
+ Inventory: "",Inventar
 
  //Timer tab
  starveTimer: "",
@@ -95,17 +95,17 @@ da: {
  maxFood: "",
  starvedIn: "",
  timerWarning: "",
- start: "",
- stop: "",
+ start: "",Start
+ stop: "",Stop
  narcoticsTimer: "",
  toggle: "",
  currentTorpor: "",
- give: "",
+ give: "",geben
  giveBtn: "",
  depletedIn: "",
  refillAmount: "",
  refillTime: "",
- timerHelp: "",
+ timerHelp: "",Zeit Hilfe
  timerHelpBtn: "",
 
  //Breeding tab
@@ -118,14 +118,14 @@ da: {
  pregnancy: "",
  breedTime: "",
  maturationTime: "",
- baby: "",
+ baby: "",Baby
  juvenile: "",
  adolescent: "",
  matingInterval: "",
  
  //Additional tab
- nickname: "",
- dinoType: "",
+ nickname: "",Nickname
+ dinoType: "",Dinotyp
  rideable: "",
  tamingMethod: "",
  favFood: "",
@@ -169,9 +169,9 @@ da: {
  stats: "",
  comparison: "",
  stat: "",
- input: "",
+ input: "",Eingang
  maxBase: "",
- points: "",
+ points: "",Punkte
  pts: "",
  colorIndication: "",
  belowAverage: "",
@@ -184,7 +184,7 @@ da: {
  absoluteSpeedValues: "",
  swimming: "",
  walking: "",
- flying: "",
+ flying: "",Fliegen
  sprintWild: "",
  sprintTamed: "",
  baseExperience: "",
@@ -192,12 +192,12 @@ da: {
  expRider: "",
  expMount: "",
  statComparisonTip: "",
- health: "",
+ health: "",Heilen
  stamina: "",
  oxygen: "",
- food: "",
+ food: "",Essen
  weight: "",
- damage: "",
+ damage: "",Schaden
  torpor: "",
  experience: "",
 
@@ -211,10 +211,10 @@ da: {
  //Resource Calculator
  itemSearch: "",
  selectedItems: "",
- noItemsSelected: "",
- resourcesNeeded: "",
+ noItemsSelected: "",Keine Items ausgewählt
+ resourcesNeeded: "",Brauche Ressourcen
  breakdown: "",
- noResources: "",
+ noResources: "",Keine Ressourcen
 
  //Survivor Profile
  profileAdditionalInfo1: "",
@@ -222,70 +222,70 @@ da: {
 
  //Maps
  arkMapsOverview: "",
- theIslandMap: "",
- theCenterMap: "",
+ theIslandMap: "",Die Island Karte
+ theCenterMap: "",Die Center Karte
  valhallaMap: "",
 
  //Admin commands (item, dinos and colors)
  adminCommandsOverview: "",
  itemSpawnCommands: "",
  dinoSpawnCommands: "",
- commandCopied: "",
- copy: "",
- done: "",
+ commandCopied: "",Command Kopieren
+ copy: "",kopieren
+ done: "",weiter
  colorCommands: "",
- quantity: "",
- quality: "",
+ quantity: "",Quantität
+ quality: "",Qualität
  blueprint: "",
  alwaysBlueprint: "",
  itemCommandsTip: "",
  randomLvl: "",
  or: "",
  level: "",
- distance: "",
+ distance: "",Distanz
  dinoCommandsTip: "",
- color: "",
- commands: "",
- colors: "",
+ color: "",Farbe
+ commands: "",Commands
+ colors: "",Farben
  colorCommandsTip: "",
  region: "",
  regionUnavailable: "",
- Red: "",
- Blue: "",
- Green: "",
- Yellow: "",
+ Red: "",Rot
+ Blue: "",Blau
+ Green: "",Grün
+ Yellow: "",Gelb
  Cyan: "",
  Magenta: "",
- "Light Green": "",
- "Light Grey": "",
- "Light Brown": "",
- "Light Orange": "",
- "Light Yellow": "",
- "Light Red": "",
- "Dark Grey": "",
- Black: "",
- Brown: "",
- "Dark Green": "",
- "Dark Red": "",
- White: "",
- "Dino Light Red": "",
- "Dino Dark Red": "",
- "Dino Light Orange": "",
- "Dino Dark Orange": "",
- "Dino Light Yellow": "",
- "Dino Dark Yellow": "",
- "Dino Light Green": "",
- "Dino Medium Green": "",
- "Dino Dark Green": "",
- "Dino Light Blue": "",
- "Dino Dark Blue": "",
- "Dino Light Purple": "",
- "Dino Dark Purple": "",
- "Dino Light Brown": "",
- "Dino Medium Brown": "",
- "Dino Dark Brown": "",
- "Dino Darker Grey": "",
- "Dino Albino": "",
+ "Light Green": "",hellgrün
+ "Light Grey": "",hellgrau
+ "Light Brown": "",hellbraun
+ "Light Orange": "",hellorange
+ "Light Yellow": "",hellgelb
+ "Light Red": "",Leichtend Rot
+ "Dark Grey": "",Dunkelgrau
+ Black: "",Schwarz
+ Brown: "",Braun
+ "Dark Green": "",Dunkelgrün
+ "Dark Red": "",Dunkelrot
+ White: "",Weiss
+ "Dino Light Red": "",hellroter Dino
+ "Dino Dark Red": "",dunkelroter Dino
+ "Dino Light Orange": "",helloranger Dino
+ "Dino Dark Orange": "",dunkeloranger Dino
+ "Dino Light Yellow": "",hellgelber Dino
+ "Dino Dark Yellow": "",dunkelgelber Dino
+ "Dino Light Green": "",hellgrüner Dino
+ "Dino Medium Green": "",mittelgrüner Dino
+ "Dino Dark Green": "",dunkelgrüner Dino
+ "Dino Light Blue": "",hellblauer Dino
+ "Dino Dark Blue": "",dunkelblauer Dino
+ "Dino Light Purple": "",hellvioleter Dino
+ "Dino Dark Purple": "",dunkelvioleter Dino
+ "Dino Light Brown": "",hellbrauner Dino
+ "Dino Medium Brown": "",mittelbrauner Dino
+ "Dino Dark Brown": "",dunkelbrauner Dino
+ "Dino Darker Grey": "",dunkelgrauer Dino
+ "Dino Albino": "",albiner Dino
  "BigFoot0": "",
  "BigFoot4": "",
  "BigFoot5": "",
@@ -294,8 +294,8 @@ da: {
 
  //Achievements
  "Artifact Archaeologist": "",
- "Expert Survivor": "",
- "Master Survivor": "",
+ "Expert Survivor": "",Experte Überlebender
+ "Master Survivor": "",Meister Überlebender
  "Survivor Evolved": "",
  "Veteran Paleontologist": "",
 
@@ -321,21 +321,21 @@ da: {
  "Lesser Antidote Additional": "",
  levelReq: "",
  engramReq: "",
- ingredients: "",
+ ingredients: "",Zutaten
 
  //Flyer Pickups
  pteraPickup: "",
  argentPickup: "",
  quetzPickup: "",
  notCarryable: "",
- nonPickup: "",
+ nonPickup: "",nicht Zerstörbar
 
- //Recipes
+ //Recipes 
  "Battle Tartare": "",
  "Battle Tartare info": "",
  "Broth of Enlightenment": "",
  "Broth of Enlightenment info": "",
- "Beer": "",
+ "Beer": "",Beeren
  "Beer Info": "",
  "Calien Soup": "",
  "Calien Soup Info": "",
@@ -363,30 +363,30 @@ da: {
  "Sweet Veggie Cake info": "",
  
  //Recipe ingredients
- recipe: "",
- "Amarberry": "",
- "Azulberry": "",
- "Black Pearl": "",
+ recipe: "",Rezept
+ "Amarberry": "",Amarbeere
+ "Azulberry": "",Azulberre
+ "Black Pearl": "",Schwarze Perle
  "Citronal": "",
- "Cooked Meat": "",
+ "Cooked Meat": "",gebratenes Fleisch
  "Cooked Prime Meat": "",
- "Fiber": "",
- "Longrass": "",
- "Mejoberry": "",
- "Narcotic": "",
- "Oil": "",
- "Other berries": "",
- "Rare Flower": "",
- "Rare Mushroom": "",
+ "Fiber": "",Faser
+ "Longrass": "",hohes Grass
+ "Mejoberry": "",Mejobeeren
+ "Narcotic": "",Narkose
+ "Oil": "",Öl
+ "Other berries": "",andere Beeren
+ "Rare Flower": "",Seltene Blume
+ "Rare Mushroom": "",Seltener Pilz
  "Raw Prime Meat": "",
  "Rockarrot": "",
  "Savoroot": "",
  "Sap": "",
  "Sparkpowder": "",
- "Stimulant": "",
+ "Stimulant": "",Stimulanz
  "Thatch": "",
- "Tintoberry": "",
- "Water": "",
+ "Tintoberry": "",Tintoberre
+ "Water": "",Wasser
  "Woolly Rhino Horn": "",
  
  //Additional recipe info
@@ -423,58 +423,58 @@ da: {
  action: "",
  key: "",
  description: "",
- "Follow All": "",
- "Follow One": "",
- "Stop All": "",
- "Stop One": "",
- "Neutral": "",
- "Passive": "",
- "Attack My Target": "",
- "Attack This Target": "",
- "Follow All description": "",
- "Follow One description": "",
- "Stop All description": "",
- "Stop One description": "",
- "Neutral description": "",
- "Passive description": "",
- "Attack My Target description": "",
- "Attack This Target description": "",
- range: "",
- rangeInfo1: "",
- rangeInfo2: "",
+ "Follow All": "",Allen Folgen
+ "Follow One": "",Einem Folgen
+ "Stop All": "",Alle Stoppen
+ "Stop One": "",Einer Stoppen
+ "Neutral": "",Neutral
+ "Passive": "",Passiv
+ "Attack My Target": "",Mein Ziel angreifen
+ "Attack This Target": "",Dieses Ziel angreifen
+ "Follow All description": "",Allen Folgen Beschreibung
+ "Follow One description": "",Einem Folgen Beschreibung
+ "Stop All description": "",Alle Stoppen Beschreibung
+ "Stop One description": "",Einer Stoppen Beschreibung
+ "Neutral description": "",Neutral Beschreibung
+ "Passive description": "",Passiv Beschreibung
+ "Attack My Target description": "",Mein Ziel angreifen Beschreibung
+ "Attack This Target description": "",Dieses Ziel angreifen Beschreibung
+ range: "",Reichweite
+ rangeInfo1: "",Info Reichweite 1
+ rangeInfo2: "",Info Reichweite 2
 
  //Development
  devTracker: "",
  developerTracker: "",
- months: "",
- weeks: "",
- days: "",
- hours: "",
- minutes: "",
- ago: "",
+ months: "",Monate
+ weeks: "",Wochen
+ days: "",Tage
+ hours: "",Stunden
+ minutes: "",Minuten
+ ago: "",her
  backOverview: "",
  gotoPost: "",
- patchPC: "",
- patchXbox: "",
+ patchPC: "",Patch PC
+ patchXbox: "",Patch Xbox
  patchSotF: "",
- officialResources: "",
- officialForums: "",
+ officialResources: "",Offizielle Ressourcen
+ officialForums: "",Offizielle Forums
  outageForm: "",
- officialSupport: "",
- officialSocialMedia: "",
+ officialSupport: "",Offizieller Support
+ officialSocialMedia: "",Offizielle Soziale Medien
 
  //Settings
  tamingMultipliers: "",
  tamingMultInfo: "",
- tamingSpeed: "",
- foodRate: "",
+ tamingSpeed: "",Zähmgeschwindigkeit
+ foodRate: "",Futterrate
  koMethods: "",
  koMethodsInfo: "",
  meleeDamage: "",
  breedingMultipliers: "",
  breedingMultInfo: "",
  matingInterval: "",
- eggHatchSpeed: "",
+ eggHatchSpeed: "",Eibrutgeschwindigkeit
  babyMatureSpeed: "",
  babyConsumeSpeed: "",
  narcoticTimer: "",
@@ -484,8 +484,8 @@ da: {
  comparisonAmountInfo: "",
  survivorOrdering: "",
  survivorOrderingInfo: "",
- updateData: "",
- updateDataInfo: "",
+ updateData: "",Datenupdate
+ updateDataInfo: "",Info Datenupdate
  getLatestData: "",
 
  //About
@@ -494,23 +494,23 @@ da: {
  upcomingFeatures: "",
  knowFeature: "",
  suggestFeature: "",
- likeApp: "",
- likeInfo: "",
- rateButton: "",
- feedback: "",
- feedbackInfo: "",
+ likeApp: "",App liken
+ likeInfo: "",Info liken
+ rateButton: "",Knopf Bewerten
+ feedback: "",Rückmeldung
+ feedbackInfo: "",Info Rückmeldung
 
  //Rate app modal
  rateApp1: "",
  rateApp2: "",
- sure: "",
- notNow: "",
- dontAskAgain: "",
+ sure: "",sicher
+ notNow: "",nicht jetzt
+ dontAskAgain: "",nicht erneut sagen
 
  //Leave app
- quitMessage: "",
- yes: "",
- no: "",
+ quitMessage: "",Nachricht schliessen
+ yes: "",ja
+ no: "",nein
 },
 de: {
  //Menu entries
@@ -522,17 +522,17 @@ de: {
  resourceCalculator: "",
  survivorProfile: "",
  arkMaps: "",
- adminCommands: "",
- achievements: "",
+ adminCommands: "",Admin Befehle
+ achievements: "",Erfolge
  diseasesAndCures: "",
  flyerPickups: "",
  kibbleFlowchart: "",
- recipes: "",
+ recipes: "",Rezepte
  supplyDrops: "",
  whistles: "",
  development: "",
- settings: "",
- about: "",
+ settings: "",Einstellungen
+ about: "",Über
 
  //Pro version
  proVersion1: "",
@@ -541,17 +541,17 @@ de: {
  proVersionButton: "",
 
  //Taming calculator + tabs
- taming: "",
- recipes: "",
- timers: "",
- breeding: "",
+ taming: "",zähmen
+ recipes: "",rezepte
+ timers: "",timer
+ breeding: "",züchten
  Additional: "",
- foodTip: "",
- food: "",
+ foodTip: "",Essenstipp
+ food: "",Essen
  Amount: "",
- max: "",
- time: "",
- tameInfo: "",
+ max: "",max
+ time: "",Zeit
+ tameInfo: "",Zähminfo
  narcoticsNeeded: "",
  narcoberriesNeeded: "",
  timeToRefill: "",
@@ -559,7 +559,7 @@ de: {
  totalTameTime: "",
  localTimeDone: "",
  effectiveness: "",
- levels: "",
+ levels: "",level
  maxLevelAfterTraining: "",
  importantCreatureInfo: "",
  koTechniques: "",
@@ -567,17 +567,17 @@ de: {
  killPerc: "",
  ratio: "",
  editKOInfo: "",
- add: "",
+ add: "",hinzufügen
  koTechniqueSettings: "",
  currentKOTechniques: "",
- delete: "",
+ delete: "",löschen
  koAreYouSure: "",
  koAlreadyExists: "",
  koAdded: "",
  basedMeleeOnly: "",
  koWarning: "",
  koInfo: "",
- additionalInfo: "",
+ additionalInfo: "",Zusätzliche Info
  aiBow: "",
  aiCrossbow: "",
  aiCompound_Bow: "",
@@ -594,12 +594,12 @@ de: {
  //Recipe tab
  kibbleRecipe: "",
  favoriteKibble: "",
- craftedIn: "",
+ craftedIn: "",Herstellen in
  producesKibble: "",
  notApplicable: "",
- saddle: "",
+ saddle: "",Sattel
  Smithy: "",
- Inventory: "",
+ Inventory: "",Inventar
 
  //Timer tab
  starveTimer: "",
@@ -608,12 +608,12 @@ de: {
  maxFood: "",
  starvedIn: "",
  timerWarning: "",
- start: "",
- stop: "",
+ start: "",Start
+ stop: "",Stopp
  narcoticsTimer: "",
  toggle: "",
  currentTorpor: "",
- give: "",
+ give: "",geben
  giveBtn: "",
  depletedIn: "",
  refillAmount: "",
@@ -629,20 +629,20 @@ de: {
  untilMaturation: "",
  incubation: "",
  pregnancy: "",
- breedTime: "",
+ breedTime: "",Zuchtzeit
  maturationTime: "",
- baby: "",
+ baby: "",Baby
  juvenile: "",
  adolescent: "",
  matingInterval: "",
  
  //Additional tab
- nickname: "",
- dinoType: "",
+ nickname: "",Nickname
+ dinoType: "",Dinotyp
  rideable: "",
  tamingMethod: "",
  favFood: "",
- totalFood: "",
+ totalFood: "",Total Essen
  dinoFoodRate: "",
  maxTorpor: "",
  torporRate: "",
@@ -657,7 +657,7 @@ de: {
  //Breeding calculator
  breedingNote: "",
  remainder: "",
- max: "",
+ max: "",max
  breedingFoodNote: "",
  progress: "",
  currentWeight: "",
@@ -682,9 +682,9 @@ de: {
  stats: "",
  comparison: "",
  stat: "",
- input: "",
+ input: "",Eingang
  maxBase: "",
- points: "",
+ points: "",punkte
  pts: "",
  colorIndication: "",
  belowAverage: "",
@@ -693,11 +693,11 @@ de: {
  statsNote: "",
  baseStat: "",
  wild: "",
- tamed: "",
+ tamed: "",gezähmt
  absoluteSpeedValues: "",
- swimming: "",
- walking: "",
- flying: "",
+ swimming: "",schwimmen
+ walking: "",laufen
+ flying: "",fliegen
  sprintWild: "",
  sprintTamed: "",
  baseExperience: "",
@@ -705,12 +705,12 @@ de: {
  expRider: "",
  expMount: "",
  statComparisonTip: "",
- health: "",
+ health: "",Gesundheit
  stamina: "",
  oxygen: "",
- food: "",
- weight: "",
- damage: "",
+ food: "",Essen
+ weight: "",Gewicht
+ damage: "",Schaden
  torpor: "",
  experience: "",
 
@@ -722,7 +722,7 @@ de: {
  RPG: "",
 
  //Resource Calculator
- itemSearch: "",
+ itemSearch: "",Item Suchen
  selectedItems: "",
  noItemsSelected: "",
  resourcesNeeded: "",
