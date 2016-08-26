@@ -1,42 +1,42 @@
  //Menu entries
 en:  "Pro Version (Ad free)",
-de:  "",   
+de:  "",   Pro Version (ohne Werbung)
 en:  "Taming Calculator",
-de:  "",   
+de:  "",   Zähmrechenr
 en:  "Breeding Calculator",
-de:  "",   
+de:  "",   Zuchtrechner
 en:  "Creature Stats",
-de:  "",   
+de:  "",   Kreatur Statistiken
 en:  "Raid Calculator",
-de:  "",   
+de:  "",   Angriffsrechner
 en:  "Resource Calculator",
-de:  "",   
+de:  "",   Ressourcenrechner
 en:  "Survivor Profile",
-de:  "",   
+de:  "",   Überlebender Profil
 en:  "ARK Maps",
-de:  "",   
+de:  "",   ARK Karten
 en:  "Admin Commands",
-de:  "",   
+de:  "",   Admin Befehle
 en:  "Achievements",
-de:  "",   
+de:  "",   Erfolge
 en:  "Diseases & Cures",
-de:  "",   
+de:  "",   Krankheiten & Heilungen
 en:  "Flyer Pickups",
 de:  "",   
 en:  "Kibble Flowchart",
 de:  "",   
 en:  "Recipes",
-de:  "",   
+de:  "",   Rezepte
 en:  "Supply Drops",
 de:  "",   
 en:  "Whistles",
-de:  "",   
+de:  "",   Pfeifen
 en:  "Development",
-de:  "",   
+de:  "",   Entwicklungen
 en:  "Settings",
-de:  "",   
+de:  "",   Einstellungen
 en:  "About",
-de:  "",   
+de:  "",   Über
 
  //Pro version
 en:  "Like the app, but not the ads? Now there is an ad-free version of SA Companion available!",
